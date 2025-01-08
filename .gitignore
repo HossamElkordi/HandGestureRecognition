@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.gradio
+linux_x86-64_benchmark_model
+rps_data_sample/none
+rps_data_sample/rock
+rps_data_sample/paper
+rps_data_sample/scissors
+rps_data_sample/fig1.png
+rps_data_sample/fig2.png
+rps_data_sample/fig3.png
